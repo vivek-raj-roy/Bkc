@@ -1,3 +1,1 @@
-pyrofork
-tgcrypto
-psutil==5.9.8
+python-telegram-bot==20.8
