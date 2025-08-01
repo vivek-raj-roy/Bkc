@@ -1,0 +1,3 @@
+pyrofork
+tgcrypto
+psutil==5.9.8
